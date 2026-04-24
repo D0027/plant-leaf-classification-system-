@@ -115,20 +115,15 @@ Grad-CAM (Gradient-weighted Class Activation Mapping) generates **heatmaps** sho
 
 | Model | Best Val Accuracy | Final Train Loss |
 |-------|:-----------------:|:----------------:|
-| 🥇 ConvNeXt-Tiny | ~**XX.XX%** | ~0.XXXX |
-| 🥈 Swin Transformer | ~**XX.XX%** | ~0.XXXX |
-| 🥉 ResNet-50 | ~**XX.XX%** | ~0.XXXX |
-| DenseNet-121 | ~**XX.XX%** | ~0.XXXX |
-| Inception-V3 | ~**XX.XX%** | ~0.XXXX |
-| MobileNet-V3 | ~**XX.XX%** | ~0.XXXX |
-| VGG-16 | ~**XX.XX%** | ~0.XXXX |
-| EfficientNet-B0 | ~**XX.XX%** | ~0.XXXX |
+| 🥇 ConvNeXt-Tiny | ~**99.13%** | ~0.0236 |
+| 🥈 Swin Transformer | ~**98.10%** | ~0.0839 |
+| 🥉 ResNet-50 | ~**97.01%** | ~0.0957 |
+| DenseNet-121 | ~**96.74%** | ~0.2030 |
+| Inception-V3 | ~**93.60%** | ~0.5975 |
+| MobileNet-V3 | ~**96.69%** | ~0.0808 |
+| VGG-16 | ~**97.57%** | ~0.0323 |
+| EfficientNet-B0 | ~**96.54%** | ~0.1466 |
 
-### 🥊 Noise Robustness Test
-| Model | Clean Accuracy | Noisy Accuracy (σ=0.2) | Accuracy Drop |
-|-------|:--------------:|:----------------------:|:-------------:|
-| EfficientNet-B0 (CNN) | ~95.40% | ~XX.XX% | ~X.XX% |
-| Swin Transformer (ViT) | ~97.19% | ~XX.XX% | ~X.XX% |
 
 **Hypothesis tested:** *Vision Transformers are more robust to image noise than CNNs due to their global attention mechanism.*
 
