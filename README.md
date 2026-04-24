@@ -111,7 +111,6 @@ Grad-CAM (Gradient-weighted Class Activation Mapping) generates **heatmaps** sho
 
 ## 📈 Results Summary
 
-> *Fill in your actual results below after training!*
 
 | Model | Best Val Accuracy | Final Train Loss |
 |-------|:-----------------:|:----------------:|
