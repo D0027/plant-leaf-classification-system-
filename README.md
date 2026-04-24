@@ -7,6 +7,13 @@
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-CV-brightgreen?style=for-the-badge)
 
+<br/>
+
+[![🚀 Live Demo](https://img.shields.io/badge/🌿%20Live%20Demo-Try%20it%20on%20HuggingFace-%2340916c?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/deepak0027/plant-disease-classifier)
+[![Space Status](https://img.shields.io/badge/Status-Running%20🟢-2d6a4f?style=for-the-badge)](https://huggingface.co/spaces/deepak0027/plant-disease-classifier)
+
+<br/>
+
 ### *A comprehensive deep learning research project comparing 8 state-of-the-art architectures for automated crop disease detection*
 
 </div>
