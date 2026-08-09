@@ -105,7 +105,7 @@ flowchart LR
 
 <div align="center">
 
-| # | Model | Type | Input Size | Optimizer | LR | Val. Accuracy |
+| # | Model | Type | Input Size | Optimizer | LR |
 |:-:|-------|------|:-----------:|:-----------:|:-----:|:--------------:|
 | 1 | **EfficientNet-B0** | CNN (Baseline) | 224×224 | Adam | `0.001` | ![](https://progress-bar.dev/97/?scale=100&width=90&color=39ff9d&suffix=%25) |
 | 2 | **Swin Transformer** | Vision Transformer | 224×224 | Adam | `5e-5` | ![](https://progress-bar.dev/98/?scale=100&width=90&color=39ff9d&suffix=%25) |
