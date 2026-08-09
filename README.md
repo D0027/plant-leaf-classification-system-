@@ -105,16 +105,16 @@ flowchart LR
 
 <div align="center">
 
-| # | Model | Type | Input Size | Optimizer | LR | Val. Accuracy |
-|:-:|-------|------|:-----------:|:-----------:|:-----:|:--------------:|
-| 1 | **EfficientNet-B0** | CNN (Baseline) | 224×224 | Adam | `0.001` | ![](https://progress-bar.dev/97/?scale=100&width=90&color=39ff9d&suffix=%25) |
-| 2 | **Swin Transformer** | Vision Transformer | 224×224 | Adam | `5e-5` | ![](https://progress-bar.dev/98/?scale=100&width=90&color=39ff9d&suffix=%25) |
-| 3 | **ResNet-50** | CNN | 224×224 | Adam | `0.001` | ![](https://progress-bar.dev/97/?scale=100&width=90&color=39ff9d&suffix=%25) |
-| 4 | **DenseNet-121** | CNN | 224×224 | Adam | `0.0005` | ![](https://progress-bar.dev/97/?scale=100&width=90&color=39ff9d&suffix=%25) |
-| 5 | **Inception-V3** | CNN | 299×299 | Adam | `0.001` | ![](https://progress-bar.dev/94/?scale=100&width=90&color=ff5470&suffix=%25) |
-| 6 | **MobileNet-V3 Large** | Lightweight CNN | 224×224 | Adam | `0.001` | ![](https://progress-bar.dev/97/?scale=100&width=90&color=39ff9d&suffix=%25) |
-| 7 | **VGG-16** | Classic Deep CNN | 224×224 | Adam | `0.0001` | ![](https://progress-bar.dev/98/?scale=100&width=90&color=39ff9d&suffix=%25) |
-| 8 | **ConvNeXt-Tiny** 🏆 | Modern CNN | 224×224 | AdamW | `0.001` | ![](https://progress-bar.dev/99/?scale=100&width=90&color=39ff9d&suffix=%25) |
+| # | Model | Type | Input Size | Optimizer | LR |
+|:-:|-------|------|:-----------:|:-----------:|:-----:|
+| 1 | **EfficientNet-B0** | CNN (Baseline) | 224×224 | Adam | `0.001` |
+| 2 | **Swin Transformer** | Vision Transformer | 224×224 | Adam | `5e-5` |
+| 3 | **ResNet-50** | CNN | 224×224 | Adam | `0.001` |
+| 4 | **DenseNet-121** | CNN | 224×224 | Adam | `0.0005` |
+| 5 | **Inception-V3** | CNN | 299×299 | Adam | `0.001` |
+| 6 | **MobileNet-V3 Large** | Lightweight CNN | 224×224 | Adam | `0.001` |
+| 7 | **VGG-16** | Classic Deep CNN | 224×224 | Adam | `0.0001` |
+| 8 | **ConvNeXt-Tiny** 🏆 | Modern CNN | 224×224 | AdamW | `0.001` |
 
 </div>
 
